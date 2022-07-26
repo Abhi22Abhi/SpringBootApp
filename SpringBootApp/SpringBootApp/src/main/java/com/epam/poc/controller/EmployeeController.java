@@ -14,4 +14,4 @@ public class EmployeeController {
 	}
 }
 
-// URI for testing REP is 
+// URI for testing REP is http://localhost:1234/emp/greating
